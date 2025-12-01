@@ -44,7 +44,7 @@
 - [Deployment](#-deployment)
 - [Customization](#-customization)
 - [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
+
 
 
 ---
