@@ -45,7 +45,7 @@
 - [Customization](#-customization)
 - [Troubleshooting](#-troubleshooting)
 - [Contributing](#-contributing)
-- [License](#-license)
+
 
 ---
 
