@@ -43,7 +43,7 @@
 - [Usage Guide](#-usage-guide)
 - [Deployment](#-deployment)
 - [Customization](#-customization)
-- [Troubleshooting](#-troubleshooting)
+
 
 
 
