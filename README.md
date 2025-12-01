@@ -34,21 +34,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 ## 🚀 Quick Start
 
 ### Prerequisites
