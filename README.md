@@ -71,11 +71,11 @@ npm run dev
 
 ```bash
 # Option A: Clone this repo
-git clone https://github.com/yourusername/timevault-nft.git
-cd timevault-nft
+git clone https://github.com/yourusername/timevault-nextjs.git
+cd timevault-nextjs
 
 # Option B: Start from scratch
-mkdir timevault-nft && cd timevault-nft
+mkdir timevault-nextjs && cd timevault-nextjs
 npx create-next-app@latest . --typescript --tailwind --app --no-src-dir
 ```
 
