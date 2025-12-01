@@ -40,7 +40,7 @@
 - [Installation](#-installation)
 - [Configuration](#-configuration)
 - [Project Structure](#-project-structure)
-- [Usage Guide](#-usage-guide)
+
 
 
 
