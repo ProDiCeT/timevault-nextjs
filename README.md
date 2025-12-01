@@ -38,7 +38,7 @@
 
 - [Quick Start](#-quick-start)
 - [Installation](#-installation)
-- [Configuration](#-configuration)
+
 
 
 
