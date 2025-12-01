@@ -47,8 +47,8 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/timevault-nft.git
-cd timevault-nft
+git clone https://github.com/yourusername/timevault-nextjs.git
+cd timevault-nextjs
 
 # 2. Install dependencies
 npm install
@@ -157,7 +157,7 @@ NEXT_PUBLIC_PINATA_SECRET_KEY=your_pinata_secret_key
 ## 📁 Project Structure
 
 ```
-timevault-nft/
+timevault-nextjs/
 ├── app/
 │   ├── layout.tsx           # Root layout with Providers
 │   ├── page.tsx             # Main app page (tabs)
@@ -254,7 +254,7 @@ Click **"Connect Wallet"** button → Choose your wallet (MetaMask, Trust, etc.)
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/yourusername/timevault-nft.git
+git remote add origin https://github.com/yourusername/timevault-nextjs.git
 git push -u origin main
 ```
 
