@@ -1,7 +1,7 @@
 
 # 🔒 TimeVault NFT - Next.js Web3 App
 
-> Complete decentralized app with native WalletConnect, encrypted NFT gifts, and auto-burn on withdrawal
+Complete decentralized app with native WalletConnect, encrypted NFT gifts, and auto-burn on withdrawal
 
 ## ✨ Features
 
