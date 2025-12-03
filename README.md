@@ -186,7 +186,7 @@ timevault-nextjs/
 
 ### 1. Connect Wallet
 
-Click **"Connect Wallet"** button → Choose your wallet (MetaMask, Trust, etc.)
+Click **"Connect Wallet"** button → Choose your wallet (MetaMask, Trust, Rabby...)
 
 ### 2. Create a Vault
 
