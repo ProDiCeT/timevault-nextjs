@@ -448,22 +448,6 @@ npm run build
 
 ---
 
-## 📊 Tech Stack
-
-| Category | Technology | Version |
-|----------|-----------|---------|
-| **Framework** | Next.js | 14.0.4 |
-| **Language** | TypeScript | 5.3.3 |
-| **Web3** | Wagmi | 2.5.7 |
-| **Web3** | Viem | 2.7.13 |
-| **Wallet** | Web3Modal | 4.0.0 |
-| **UI** | Tailwind CSS | 3.3.6 |
-| **Icons** | Lucide React | 0.294.0 |
-| **Storage** | IPFS (Pinata) | - |
-| **Blockchain** | Base (Ethereum L2) | - |
-
----
-
 ## 🎯 Use Cases
 
 ### Personal Use
